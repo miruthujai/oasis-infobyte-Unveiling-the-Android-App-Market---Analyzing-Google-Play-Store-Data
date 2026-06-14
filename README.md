@@ -1,4 +1,4 @@
-# 📱 Unveiling the Android App Market - Analyzing Google Play Store Data
+# 📱Unveiling the Android App Market - Analyzing Google Play Store Data
 
 ## 🏢 Internship Details
 - **Organization:** Oasis Infobyte
